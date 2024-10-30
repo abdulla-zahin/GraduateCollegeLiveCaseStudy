@@ -32,7 +32,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries related to this project, please reach out via GitHub issues or directly through email at [your-email@example.com].
+For any queries related to this project, please reach out via GitHub issues or directly through email at abdullazahin31@gmail.com.
 
 ## Acknowledgements
 - Graduate College, England, London, for providing access to necessary data and resources.
