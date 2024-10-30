@@ -11,8 +11,8 @@ The dashboards utilize historical data from the college, combined with external 
 
 ## Dashboards
 The repository includes the following dashboards:
-1. **Enrollment Forecast**: Visualizes projected student enrollment over the next academic years.
-2. **Financial Health**: Analyzes the financial status of the college, focusing on revenue streams and expenditure.
+1. **Enrollment Forecast**: Visualizes projected student enrollment over the next academic years, with a detailed 10-year forecast.
+2. **Financial Health**: Analyzes the financial status of the college, focusing on revenue streams and expenditure over the next decade.
 3. **Academic Performance**: Tracks academic outcomes to gauge educational quality and student success.
 
 ## Tools Used
@@ -27,9 +27,6 @@ After cloning the repository, open the `.pbix` files with Power BI Desktop. You 
 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit pull requests with your proposed changes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any queries related to this project, please reach out via GitHub issues or directly through email at abdullazahin31@gmail.com.
