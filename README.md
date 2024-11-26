@@ -15,6 +15,9 @@ The repository includes the following dashboards:
 2. **Financial Health**: Analyzes the financial status of the college, focusing on revenue streams and expenditure over the next decade.
 3. **Academic Performance**: Tracks academic outcomes to gauge educational quality and student success.
 
+![image](https://github.com/user-attachments/assets/f0f9ce1f-f4e3-4e74-84eb-778732435fd0)
+
+
 ## Tools Used
 - **Power BI**: Used for creating interactive dashboards and visualizations.
 - **Excel**: Used for preliminary data processing and analysis.
