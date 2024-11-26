@@ -19,6 +19,9 @@ This dashboard provides a detailed view of revenue and cost distribution across 
 
 ## Dashboards
 
+![Screenshot 2024-11-26 121553](https://github.com/user-attachments/assets/d89c156c-4490-4ba5-811a-4be5594763b8)
+
+
 ### 1. **Enrollment Forecast**
    - Visualizes projected student enrollment over the next academic years with a detailed 10-year forecast.
 
